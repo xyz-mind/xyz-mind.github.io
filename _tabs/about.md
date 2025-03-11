@@ -26,13 +26,13 @@ order: 4
 ---
 
 ### **📚 知识体系架构**  
-graph LR
-A[Python核心] --> B(NumPy科学计算)
-A --> C(Pandas数据分析)
-B & C --> D(Matplotlib可视化)
-D --> E(PyEcharts交互设计)
-C --> F(LangChain文档处理)
-E & F --> G(业务分析系统)
+- graph LR
+- A[Python核心] --> B(NumPy科学计算)
+- A --> C(Pandas数据分析)
+- B & C --> D(Matplotlib可视化)
+- D --> E(PyEcharts交互设计)
+- C --> F(LangChain文档处理)
+- E & F --> G(业务分析系统)
 
 
 ---
