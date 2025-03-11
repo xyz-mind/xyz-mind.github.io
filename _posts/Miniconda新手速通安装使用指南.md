@@ -1,11 +1,11 @@
 ---
 title: Miniconda新手速通安装使用指南
 description: >-
-  
-author: cotes
+  收纳管理Python包。
+author: 刘十五
 date: 2025-03-11 20:55:00 +0800
 categories: [Blogging, Tutorial]
-tags: [Python笔记]]
+tags: [Python笔记]
 pin: true
 media_subpath: '/posts/20250311'
 ---

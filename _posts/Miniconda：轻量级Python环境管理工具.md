@@ -1,11 +1,11 @@
 ---
 title: Miniconda：轻量级Python环境管理工具
 description: >-
-  
+  轻量级Python环境管理工具。
 author: 刘十五
 date: 2025-03-11 20:55:00 +0800
 categories: [Blogging, Tutorial]
-tags: [Python笔记]]
+tags: [Python笔记]
 pin: true
 media_subpath: '/posts/20250311'
 ---
