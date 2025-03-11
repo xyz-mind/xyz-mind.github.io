@@ -35,7 +35,7 @@ order: 4
 
 <div align="center">
 
-[![竹简传书]](https://example.com)  
+(https://example.com)  
 **诚邀道友**  
 共探算法之妙，同参数据之禅  
 
