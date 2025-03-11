@@ -4,9 +4,6 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-以下是为您精心设计的中国风技术极客个人简介模板（请复制至Markdown编辑器查看最佳效果）：
-
-```markdown
 <div align="center">
 
 # <sub>𝕵𝖎𝖓𝖌𝖍𝖚𝖆</sub> 静华 · 墨数阁  
@@ -82,7 +79,6 @@ graph LR
     background: #FDF5E6;
   }
 </style>
-```
 
 ---
 {: .prompt-tip }
