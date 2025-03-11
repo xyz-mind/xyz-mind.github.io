@@ -12,7 +12,7 @@ order: 4
 ---
 
 ### **🔧 当前技能树**  
-```markdown
+
 ✔️ 已掌握  
   ├─ 数据清洗：Pandas缺失值处理/数据合并/分组聚合  
   ├─ 基础分析：NumPy矩阵运算/Matplotlib折线图/柱状图绘制  
@@ -22,12 +22,10 @@ order: 4
   ├─ 可视化进阶：PyEcharts交互仪表盘布局优化  
   ├─ 分析工程化：使用Jupyter Notebook撰写完整分析报告  
   ├─ AI集成：LangChain+LLM实现简易问答机器人    
-```
 
 ---
 
 ### **📚 知识体系架构**  
-```mermaid
 graph LR
 A[Python核心] --> B(NumPy科学计算)
 A --> C(Pandas数据分析)
@@ -35,7 +33,7 @@ B & C --> D(Matplotlib可视化)
 D --> E(PyEcharts交互设计)
 C --> F(LangChain文档处理)
 E & F --> G(业务分析系统)
-```
+
 
 ---
 
