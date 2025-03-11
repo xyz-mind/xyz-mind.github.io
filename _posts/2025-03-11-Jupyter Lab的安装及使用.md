@@ -3,7 +3,7 @@ title: Jupyter Lab的安装及使用
 description: >-
   Jupyter Lab 是一款“代码实验室”般的交互式开发工具，像搭积木一样整合了代码、文档、图表和终端，是数据科学家的“数字工作台”。以下是它的安装与使用指南，用生活化的比喻带你轻松上手。
 author: 刘十五
-date: 2025-03-11 20:55:00 +0800
+date: 2025-03-11 14:57:00 +0800
 categories: [Blogging, Tutorial]
 tags: [Python笔记]
 pin: true

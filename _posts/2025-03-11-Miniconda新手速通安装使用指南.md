@@ -3,7 +3,7 @@ title: Miniconda新手速通安装使用指南
 description: >-
   收纳管理Python包。
 author: 刘十五
-date: 2025-03-11 20:55:00 +0800
+date: 2025-03-11 14:56:00 +0800
 categories: [Blogging, Tutorial]
 tags: [Python笔记]
 pin: true
