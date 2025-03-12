@@ -1,3 +1,18 @@
+---
+title: ydata-profiling详解
+description: >-
+  快速查找缺失值异常值。
+author: 刘十五
+date: 2025-03-12 09:40:00 +0800
+categories: [Blogging, Tutorial]
+tags: [Python笔记]
+pin: true
+media_subpath: '/posts/20250312'
+---
+
+在 Python 中处理缺失值时，`np.nan`、`None` 和 `.isnull()`（或 `.isna()`）有不同的适用场景和行为。它们的优劣取决于**数据类型**（如纯 Python 对象、NumPy 数组、Pandas DataFrame）和**库的兼容性**。以下是详细对比和原因分析：
+
+---
 通俗版：假设你拿到一份陌生的数据集，里面有100个字段、10万条数据，手动分析会累到秃头。而 ydata_profiling 能自动扫描数据，生成一份图文并茂的“体检报告”，直接告诉你数据哪里有问题、分布如何、有没有异常值。
 🕵️♂️ ydata_profiling 是什么？
 一句话解释：它像数据的“体检医生”，用一行代码就能生成一份详细的数据分析报告，帮你瞬间看清数据的“健康状况”。
