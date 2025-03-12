@@ -49,7 +49,7 @@ Miniconda 就像你的 **“Python工具箱管家”**，轻量便携（安装�
 **3️⃣ 验证安装**
 打开终端（Win：`cmd` / Mac&Linux：`Terminal`），输入：
 
-```Shell
+```shell
 conda --version
 ```
 
@@ -63,7 +63,7 @@ conda --version
 **1️⃣ 创建“隔离工作间”（虚拟环境）**
 🔧 **命令**：
 
-```Shell
+```shell
 conda create -n 环境名 python=3.9
 ```
 
@@ -77,7 +77,7 @@ conda create -n 环境名 python=3.9
 **2️⃣ 进入你的“工作间”**
 🚪 **激活环境**：
 
-```Shell
+```shell
 conda activate 环境名
 ```
 
@@ -87,14 +87,14 @@ conda activate 环境名
 **3️⃣ 安装工具包（比如numpy）**
 📦 **命令**：
 
-```Shell
+```shell
 conda install numpy
 ```
 
 
 👉 **加速下载**：换成国内镜像源（如清华源），速度飞起！
 
-```Shell
+```shell
 conda config --add channels https://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/free/
 ```
 
@@ -102,7 +102,7 @@ conda config --add channels https://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/f
 **4️⃣ 退出当前环境**
 🔙 **命令**：
 
-```Shell
+```shell
 conda deactivate
 ```
 
@@ -110,7 +110,7 @@ conda deactivate
 **5️⃣ 删除废弃环境**
 🗑️ **命令**：
 
-```Shell
+```shell
 conda remove -n 环境名 --all
 ```
 
@@ -133,7 +133,7 @@ conda remove -n 环境名 --all
 1️⃣ **环境激活失败？**
 👉 确保安装时勾选了“Add to PATH”，或手动初始化conda：
 
-```Shell
+```shell
 conda init
 ```
 
@@ -141,7 +141,7 @@ conda init
 2️⃣ **conda下载慢？**
 👉 换国内镜像源！一次性配置：
 
-```Shell
+```shell
 conda config --add channels 镜像源地址
 ```
 
