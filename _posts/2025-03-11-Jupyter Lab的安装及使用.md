@@ -22,7 +22,7 @@ Jupyter Lab 是一款“代码实验室”般的交互式开发工具，像搭�
   - **Anaconda用户**（适合新手）：
 像安装App一样下载Anaconda，内置Jupyter Lab，一键启动[6][9]。
 
-    ```Shell
+```Shell
 conda install -c conda-forge jupyterlab
 ```
 
@@ -30,7 +30,7 @@ conda install -c conda-forge jupyterlab
   - **Python老手**（灵活轻量）：
 用`pip`像安装插件一样快速部署：
 
-    ```Shell
+```Shell
 pip install jupyterlab
 ```
 
@@ -41,7 +41,7 @@ pip install jupyterlab
 2. **虚拟环境配置（隔离你的“实验空间”）**
 像在厨房里分区域备菜，用虚拟环境避免依赖冲突：
 
-  ```Shell
+```Shell
 python -m venv myenv      # 创建虚拟环境
 source myenv/bin/activate # 激活环境（Linux/Mac）
 pip install jupyterlab   # 安装到虚拟环境
@@ -53,7 +53,7 @@ jupyter lab              # 启动[3]
 
   - **中文界面**：安装语言包，像切换系统语言一样简单[2]：
 
-    ```Shell
+```Shell
 pip install jupyterlab-language-pack-zh-CN
 ```
 
@@ -105,7 +105,7 @@ pip install jupyterlab-language-pack-zh-CN
 
 - **端口冲突**：启动时指定端口，像换车位一样避开占用：
 
-  ```Shell
+```Shell
 jupyter lab --port 8889
 ```
 
