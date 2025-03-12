@@ -43,7 +43,7 @@ Miniconda 就像是一个「魔法背包」——它轻巧便携，但能装下�
 
 ### ⚡ **新手速成咒语：**
 
-```Shell
+```shell
 # 创建名为「哈利波特」的环境，预装 Python 3.8
 conda create -n 哈利波特 python=3.8
 
